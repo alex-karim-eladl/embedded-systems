@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/karimeladl/dev/courses/embedded-systems/lab1/part1",
+      "program": "/Users/karimeladl/dev/courses/embedded-systems/lab1/part1/build/Debug/outDebug"
+    }
+  ]
+}

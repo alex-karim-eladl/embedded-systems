@@ -1,0 +1,4 @@
+[target.'cfg(all(target_arch = "arm", target_os = "none"))']
+
+[build]
+target = "thumbv7em-none-eabi"
